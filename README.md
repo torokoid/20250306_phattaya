@@ -199,7 +199,7 @@ p.note { display: none; }
 <h2><span class="yellow">浜には鮮魚店がずらり</span></h2>
 <a href="20250306_027.JPG" target="_blank"><img src="20250306_027.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">エビは出店のお父さんの口利きで、浜の食堂で煮てもらいます、100バーツ</span></h2>
+<h2><span class="yellow">エビは出店のお父さんの口利きで、浜の食堂で煮てもらいます、調理代100バーツ</span></h2>
 <a href="20250306_028.JPG" target="_blank"><img src="20250306_028.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お店の前に止まってたバイク、珍しくディスクロックしてました</span></h2>

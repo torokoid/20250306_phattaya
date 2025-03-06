@@ -130,7 +130,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 
-<h2><span class="yellow">5日夜の取りこぼしから上げます<br>5日連続でいつもの海辺のレストラン</span></h2>
+<h2><span class="yellow">5日夜の取りこぼしから先にアップします<br>5日連続でいつもの海辺のレストラン</span></h2>
 <a href="20250306_001.JPG" target="_blank"><img src="20250306_001.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">夜10時閉店ですが、8時過ぎでもこのレベル</span></h2>

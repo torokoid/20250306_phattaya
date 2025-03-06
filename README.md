@@ -264,7 +264,7 @@ p.note { display: none; }
 <h2><span class="yellow">本屋さんではタイ語と英語の本が半々くらいでした</span></h2>
 <a href="20250306_052.JPG" target="_blank"><img src="20250306_052.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">金のお店も大きくて、腰に銃さした警備員が2人談笑中</span></h2>
+<h2><span class="yellow">金のお店も大きくて、腰に銃さした警備員が2人で談笑中</span></h2>
 <a href="20250306_053.JPG" target="_blank"><img src="20250306_053.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">中央のイベント広場は子供達で大盛況、風船乗りは長蛇の列</span></h2>

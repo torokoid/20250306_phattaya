@@ -131,152 +131,152 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">5日夜の取りこぼしから上げます<br>5日連続でいつもの海辺のレストラン</span></h2>
-<a href="20250306_001.png" target="_blank"><img src="20250306_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_001.JPG" target="_blank"><img src="20250306_001.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">夜10時閉店ですが、8時過ぎでもこのレベル</span></h2>
-<a href="20250306_002.png" target="_blank"><img src="20250306_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_002.JPG" target="_blank"><img src="20250306_002.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">夜間就労の子供が頑張ってます</span></h2>
-<a href="20250306_003.png" target="_blank"><img src="20250306_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_003.JPG" target="_blank"><img src="20250306_003.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">英語による売り込み</span></h2>
-<a href="20250306_004.png" target="_blank"><img src="20250306_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_004.JPG" target="_blank"><img src="20250306_004.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">売り込みに失敗してこちらのテーブルに流れてきました</span></h2>
-<a href="20250306_005.png" target="_blank"><img src="20250306_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_005.JPG" target="_blank"><img src="20250306_005.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お菓子３袋を100バーツで購入です、約440円</span></h2>
-<a href="20250306_007.png" target="_blank"><img src="20250306_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_007.JPG" target="_blank"><img src="20250306_007.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">料理は味が完全に予想通りになるカニチャーハン</span></h2>
-<a href="20250306_006.png" target="_blank"><img src="20250306_006.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_006.JPG" target="_blank"><img src="20250306_006.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">朝採れたてのイカの煮物</span></h2> 
-<a href="20250306_009.png" target="_blank"><img src="20250306_009.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_009.JPG" target="_blank"><img src="20250306_009.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ちょっと遅れて別の女の子が来ました・・・</span></h2>
-<a href="20250306_008.png" target="_blank"><img src="20250306_008.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_008.JPG" target="_blank"><img src="20250306_008.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">もう買いませんでしたが、お店のお姉さんに怒られて可哀想だったので20バーツあげます</span></h2>
-<a href="20250306_010.png" target="_blank"><img src="20250306_010.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_010.JPG" target="_blank"><img src="20250306_010.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お空にはお月様、水平線にはイカ釣船の漁火</span></h2>
-<a href="20250306_011.png" target="_blank"><img src="20250306_011.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_011.JPG" target="_blank"><img src="20250306_011.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お月様の左下にはオリオン座が見事でした</span></h2>
-<a href="20250306_012.png" target="_blank"><img src="20250306_012.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_013.png" target="_blank"><img src="20250306_013.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_012.JPG" target="_blank"><img src="20250306_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_013.JPG" target="_blank"><img src="20250306_013.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">最初の男の子のおねーちゃんが黙々と頑張ってます（茶色い服）</span></h2>
-<a href="20250306_014.png" target="_blank"><img src="20250306_014.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_014.JPG" target="_blank"><img src="20250306_014.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ここから6日の朝、宿の駐車場から見えた朝日</span></h2>
-<a href="20250306_015.png" target="_blank"><img src="20250306_015.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_015.JPG" target="_blank"><img src="20250306_015.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">朝のパタヤビーチを見てからバンコクに移動します<br>ビーチの看板で腕立て伏せする白人のおじさん</span></h2>
-<a href="20250306_016.png" target="_blank"><img src="20250306_016.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_017.png" target="_blank"><img src="20250306_017.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_018.png" target="_blank"><img src="20250306_018.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_019.png" target="_blank"><img src="20250306_019.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_016.JPG" target="_blank"><img src="20250306_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_017.JPG" target="_blank"><img src="20250306_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_018.JPG" target="_blank"><img src="20250306_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_019.JPG" target="_blank"><img src="20250306_019.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">朝の8時前ですがけっこうな人出</span></h2>
-<a href="20250306_020.png" target="_blank"><img src="20250306_020.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_020.JPG" target="_blank"><img src="20250306_020.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">浜では朝水揚げされたばかりの鮮魚の即売</span></h2>
-<a href="20250306_021.png" target="_blank"><img src="20250306_021.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_022.png" target="_blank"><img src="20250306_022.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_023.png" target="_blank"><img src="20250306_023.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_021.JPG" target="_blank"><img src="20250306_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_022.JPG" target="_blank"><img src="20250306_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_023.JPG" target="_blank"><img src="20250306_023.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">浜のマンション群、屋上にも椰子の木が植ってます</span></h2>
-<a href="20250306_024.png" target="_blank"><img src="20250306_024.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_024.JPG" target="_blank"><img src="20250306_024.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">水揚げのおこぼれを狙う水鳥</span></h2>
-<a href="20250306_025.png" target="_blank"><img src="20250306_025.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_025.JPG" target="_blank"><img src="20250306_025.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">エビ２Kg購入で2000バーツ、約8800円をタイ版PayPayのQRコードで支払い</span></h2>
-<a href="20250306_026.png" target="_blank"><img src="20250306_026.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_026.JPG" target="_blank"><img src="20250306_026.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">浜には鮮魚店がずらり</span></h2>
-<a href="20250306_027.png" target="_blank"><img src="20250306_027.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_027.JPG" target="_blank"><img src="20250306_027.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">エビは出店のお父さんの口利きで、浜の食堂で煮てもらいます、100バーツ</span></h2>
-<a href="20250306_028.png" target="_blank"><img src="20250306_028.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_028.JPG" target="_blank"><img src="20250306_028.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">お店の前に止まってたバイク、珍しくディスクロックしてました</span></h2>
-<a href="20250306_029.png" target="_blank"><img src="20250306_029.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_029.JPG" target="_blank"><img src="20250306_029.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">タイでは初めて見たかも・・・</span></h2>
-<a href="20250306_030.png" target="_blank"><img src="20250306_030.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_030.JPG" target="_blank"><img src="20250306_030.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">浜辺のお花は皆綺麗ですね</span></h2>
-<a href="20250306_031.png" target="_blank"><img src="20250306_031.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_032.png" target="_blank"><img src="20250306_032.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_031.JPG" target="_blank"><img src="20250306_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_032.JPG" target="_blank"><img src="20250306_032.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">落ち葉はやたらでかいので、箒ではかずに棒で刺して集めます</span></h2>
-<a href="20250306_033.png" target="_blank"><img src="20250306_033.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_033.JPG" target="_blank"><img src="20250306_033.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">コンビニのアルコールは販売時間外でカバーされてました</span></h2>
-<a href="20250306_034.png" target="_blank"><img src="20250306_034.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_035.png" target="_blank"><img src="20250306_035.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_034.JPG" target="_blank"><img src="20250306_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_035.JPG" target="_blank"><img src="20250306_035.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">高速でバンコクに移動、平日なので2時間ほどで着きました</span></h2>
-<a href="20250306_036.png" target="_blank"><img src="20250306_036.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_037.png" target="_blank"><img src="20250306_037.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_036.JPG" target="_blank"><img src="20250306_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_037.JPG" target="_blank"><img src="20250306_037.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">市内の巨大ショッピングモールでは僧侶たちがApple製品を物色中</span></h2>
-<a href="20250306_038.png" target="_blank"><img src="20250306_038.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_038.JPG" target="_blank"><img src="20250306_038.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">地上４階、地下１階の巨大売り場はどこに何がるのか全くわかりません</span></h2>
-<a href="20250306_039.png" target="_blank"><img src="20250306_039.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_039.JPG" target="_blank"><img src="20250306_039.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">馴染みの日本ブランドもたくさん入ってました<br>画像クリックでGoogleMapsに飛びます↓</span></h2>
-<a href="https://www.google.com/maps/place/シーコンスクエア/@13.6941378,100.6465809,16.57z/data=!4m6!3m5!1s0x311d5fd3fd8e82df:0xecc3d0841afbf60c!8m2!3d13.6943348!4d100.6483001!16s%2Fm%2F026kr5q?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><img src="20250306_040.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/place/シーコンスクエア/@13.6941378,100.6465809,16.57z/data=!4m6!3m5!1s0x311d5fd3fd8e82df:0xecc3d0841afbf60c!8m2!3d13.6943348!4d100.6483001!16s%2Fm%2F026kr5q?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><img src="20250306_040.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">４階の一角は子供たちの遊園地みたいになってました</span></h2>
-<a href="20250306_041.png" target="_blank"><img src="20250306_041.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_042.png" target="_blank"><img src="20250306_042.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_041.JPG" target="_blank"><img src="20250306_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_042.JPG" target="_blank"><img src="20250306_042.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">タイの学校は休みに入っているので、日中から子供達が来てます</span></h2>
-<a href="20250306_043.png" target="_blank"><img src="20250306_043.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_043.JPG" target="_blank"><img src="20250306_043.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">地下にはかなりマニアックなPC系の部品屋さん</span></h2>
-<a href="20250306_044.png" target="_blank"><img src="20250306_044.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_045.png" target="_blank"><img src="20250306_045.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_044.JPG" target="_blank"><img src="20250306_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_045.JPG" target="_blank"><img src="20250306_045.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">このグラボのニーズがあるとは、さすがバンコク</span></h2>
-<a href="20250306_046.png" target="_blank"><img src="20250306_046.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_046.JPG" target="_blank"><img src="20250306_046.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">顕微鏡覗きながら半田付けするお兄さん</span></h2>
-<a href="20250306_047.png" target="_blank"><img src="20250306_047.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_047.JPG" target="_blank"><img src="20250306_047.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">部品や中古品売り場は子育てしながらの商売</span></h2>
-<a href="20250306_048.png" target="_blank"><img src="20250306_048.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_048.JPG" target="_blank"><img src="20250306_048.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">中古品のグラボもショーケース内に並びます</span></h2>
-<a href="20250306_049.png" target="_blank"><img src="20250306_049.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_049.JPG" target="_blank"><img src="20250306_049.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ディスクトップのフラッグシップらしき筐体、スペック聞いたら店員さんも知らず</span></h2>
-<a href="20250306_050.png" target="_blank"><img src="20250306_050.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_050.JPG" target="_blank"><img src="20250306_050.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">1階のイベント広場では各社一斉に販促活動、Hondaも Toyotaも同席</span></h2>
-<a href="20250306_051.png" target="_blank"><img src="20250306_051.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_051.JPG" target="_blank"><img src="20250306_051.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">本屋さんではタイ語と英語の本が半々くらいでした</span></h2>
-<a href="20250306_052.png" target="_blank"><img src="20250306_052.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_052.JPG" target="_blank"><img src="20250306_052.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">金のお店も大きくて、腰に銃さした警備員が2人談笑中</span></h2>
-<a href="20250306_053.png" target="_blank"><img src="20250306_053.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_053.JPG" target="_blank"><img src="20250306_053.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">中央のイベント広場は子供達で大盛況、風船乗りは長蛇の列</span></h2>
-<a href="20250306_054.png" target="_blank"><img src="20250306_054.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_054.JPG" target="_blank"><img src="20250306_054.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">4階まで上がって、イベント広場見下ろしながらの昼食</span></h2>
-<a href="20250306_055.png" target="_blank"><img src="20250306_055.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_056.png" target="_blank"><img src="20250306_056.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_055.JPG" target="_blank"><img src="20250306_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_056.JPG" target="_blank"><img src="20250306_056.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">巨大ショッピングモールなので仏壇も綺麗でした</span></h2>
-<a href="20250306_057.png" target="_blank"><img src="20250306_057.png" alt="サンプル画像" width="900" /></a>
-<a href="20250306_058.png" target="_blank"><img src="20250306_058.png" alt="サンプル画像" width="900" /></a>
+<a href="20250306_057.JPG" target="_blank"><img src="20250306_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250306_058.JPG" target="_blank"><img src="20250306_058.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <!--   

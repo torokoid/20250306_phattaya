@@ -193,7 +193,7 @@ p.note { display: none; }
 <h2><span class="yellow">水揚げのおこぼれを狙う水鳥</span></h2>
 <a href="20250306_025.JPG" target="_blank"><img src="20250306_025.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">エビ２Kg購入で2000バーツ、約8800円をタイ版PayPayのQRコードで支払い</span></h2>
+<h2><span class="yellow">エビ２Kg、2000バーツを1500バーツに値引きして、約6600円をタイ版PayPayのQRコードで支払い</span></h2>
 <a href="20250306_026.JPG" target="_blank"><img src="20250306_026.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">浜には鮮魚店がずらり</span></h2>
